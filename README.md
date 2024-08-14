@@ -1,3 +1,3 @@
-git clone https://github.com/kosialageel2007/V5SPEED
-cd V5SPEED
-python V2SPEED.py
+git clone https://github.com/Basm-store/B9-Almhrk09.git
+B9-Almhrk09
+python B9-Almhrk09
